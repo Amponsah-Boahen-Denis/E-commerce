@@ -19,65 +19,65 @@ function Motors(){
             </div>
     <div className='body'><h1>Welcome to the home of motos</h1>
     <div className='bod'>
-    <div className='sell'><img src="sales/motor1.png" alt=""  />
-    <p>transport zone motos</p><b>$909</b><img className='img' src='sales/star2.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor1.png').default} alt=""  />
+    <p>transport zone motos</p><b>$909</b><img className='img'  src={require('./sales/star1.png').default} alt="" />
     </div>
-    <div className='sell'><img src="sales/motor2.png" alt=""  />
-    <p>transport zone motos</p><b>$976</b><img className='img' src='sales/star1.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor2.png').default} alt=""  />
+    <p>transport zone motos</p><b>$976</b><img className='img'  src={require('./sales/star1.png').default} alt="" />
     </div>
-    <div className='sell'><img src="sales/motor3.png" alt=""  />
-    <p>transport zone motos</p><b>$778</b><img className='img' src='sales/star2.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor3.png').default} alt=""  />
+    <p>transport zone motos</p><b>$778</b><img className='img'  src={require('./sales/star1.png').default} alt="" />
     </div>
-    <div className='sell'><img src="sales/motor4.png" alt=""  />
-    <p>transport zone motos</p><b>$875</b><img className='img' src='sales/star1.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor4.png').default} alt=""  />
+    <p>transport zone motos</p><b>$875</b><img className='img'  src={require('./sales/star1.png').default} alt="" />
     </div>
-    <div className='sell'><img src="sales/motor5.png" alt=""  />
-    <p>transport zone motos</p><b>$1,006</b><img className='img' src='sales/star1.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor5.png').default} alt=""  />
+    <p>transport zone motos</p><b>$1,006</b><img className='img'  src={require('./sales/star1.png').default} alt="" />
     </div>
-    <div className='sell'><img src="sales/motor6.png" alt=""  />
-    <p>transport zone motos</p><b>$887</b><img className='img' src='sales/star2.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor6.png').default} alt=""  />
+    <p>transport zone motos</p><b>$887</b><img className='img'  src={require('./sales/star2.png').default} alt="" />
     </div>
-    <div className='sell'><img src="sales/motor7.png" alt=""  />
-    <p>transport zone motos</p><b>$906</b><img className='img' src='sales/star2.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor7.png').default} alt=""  />
+    <p>transport zone motos</p><b>$906</b><img className='img'  src={require('./sales/star1.png').default} alt="" />
     </div>
-    <div className='sell'><img src="sales/motor8.png" alt=""  />
-    <p>transport zone motos</p><b>1,007</b><img className='img' src='sales/star1.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor8.png').default} alt=""  />
+    <p>transport zone motos</p><b>1,007</b><img className='img'  src={require('./sales/star2.png').default} alt="" />
     </div>
-    <div className='sell'><img src="sales/motor9.png" alt=""  />
-    <p>transport zone motos</p><b>$879</b><img className='img' src='sales/star1.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor9.png').default} alt=""  />
+    <p>transport zone motos</p><b>$879</b><img className='img'  src={require('./sales/star1.png').default} alt="" />
     </div>
-    <div className='sell'><img src="sales/motor10.png" alt=""  />
-    <p>transport zone motos</p><b>$865</b><img className='img' src='sales/star2.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor10.png').default} alt=""  />
+    <p>transport zone motos</p><b>$865</b><img className='img'  src={require('./sales/star2.png').default} alt="" />
     </div>
-    <div className='sell'><img src="sales/motor11.png" alt=""  />
-    <p>transport zone motos</p><b>$864</b><img className='img' src='sales/star1.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor11.png').default} alt=""  />
+    <p>transport zone motos</p><b>$864</b><img className='img'  src={require('./sales/star2.png').default} alt="" />
     </div>
-    <div className='sell'><img src="sales/motor12.png" alt=""  />
-    <p>transport zone motos</p><b>$765</b><img className='img' src='sales/star2.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor12.png').default} alt=""  />
+    <p>transport zone motos</p><b>$765</b><img className='img'  src={require('./sales/star2.png').default} alt="" />
     </div>
-    <div className='sell'><img src="sales/motor13.png" alt=""  />
-    <p>transport zone motos</p><b>$765</b><img className='img' src='sales/star2.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor13.png').default} alt=""  />
+    <p>transport zone motos</p><b>$765</b><img className='img'  src={require('./sales/star1.png').default} alt="" />
     </div>
-    <div className='sell'><img src="sales/motor14.png" alt=""  />
-    <p>transport zone motos</p><b>$854</b><img className='img' src='sales/star1.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor14.png').default} alt=""  />
+    <p>transport zone motos</p><b>$854</b><img className='img'  src={require('./sales/star2.png').default} alt="" />
     </div>
-    <div className='sell'><img src="sales/motor15.png" alt=""  />
-    <p>transport zone motos</p><b>$987</b><img className='img' src='sales/star1.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor15.png').default}alt=""  />
+    <p>transport zone motos</p><b>$987</b><img className='img'  src={require('./sales/star1.png').default} alt="" />
     </div>
-    <div className='sell'><img src="sales/motor16.png" alt=""  />
-    <p>transport zone motos</p><b>$843</b><img className='img' src='sales/star1.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor16.png').default} alt=""  />
+    <p>transport zone motos</p><b>$843</b><img className='img' src={require('./sales/star2.png').default} alt="" />
     </div>
-    <div className='sell'><img src="sales/motor17.png" alt=""  />
-    <p>transport zone motos</p><b>$985</b><img className='img' src='sales/star2.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor17.png').default} alt=""  />
+    <p>transport zone motos</p><b>$985</b><img className='img' src={require('./sales/star2.png').default} alt="" />
     </div>
-    <div className='sell'><img src="sales/motor18.png" alt=""  />
-    <p>transport zone motos</p><b>$810</b><img className='img' src='sales/star2.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor18.png').default} alt=""  />
+    <p>transport zone motos</p><b>$810</b><img className='img' src={require('./sales/star1.png').default} alt="" />
     </div>
-    <div className='sell'><img src="sales/motor19.png" alt=""  />
-    <p>transport zone motos</p><b>$710</b><img className='img' src='sales/star1.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor19.png').default} alt=""  />
+    <p>transport zone motos</p><b>$710</b><img className='img' src={require('./sales/star2.png').default} alt="" />
     </div>
-    <div className='sell'><img src="sales/motor20.png" alt=""  />
-    <p>transport zone motos</p><b>$804</b><img className='img' src='sales/star1.png' alt="" />
+    <div className='sell'><img src={require('./sales/motor20.png').default} alt=""  />
+    <p>transport zone motos</p><b>$804</b><img className='img' src={require('./sales/star2.png').default} alt="" />
     </div>
     </div>
    

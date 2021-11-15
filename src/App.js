@@ -14,8 +14,8 @@ function App() {
     <div className='up'>
       <h1>TRANSPORT<span>ZONE</span></h1>
       <div className='sign'></div>
-      <div><img src="sales/cart.png" alt=""  />
-      <img className='img' src="sales/share.png" alt=""  /></div>
+      <div><img  src={require('./container/sales/cart.png').default} alt=""  />
+      <img className='img' src={require('./container/sales/share.png').default} alt=""  /></div>
       </div> 
       <div classname='div'>
       <button classname='button' onClick={()=>setOpen(!open)}>About</button> 
