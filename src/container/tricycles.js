@@ -94,7 +94,7 @@ function Tricycles() {
             </div>
        <div className='bottom'>
            <div className='div'>
-           <a href='/bicycles.js'>CHECK BICYCLES</a>
+           <a href='#bicycles.js'>CHECK BICYCLES</a>
            </div>
        </div>
         </div>

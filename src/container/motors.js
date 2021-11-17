@@ -2,7 +2,7 @@ import React from 'react'
 import './motors.scss'
 function Motors(){
     return (
-        <div className='motor'>
+        <div className='motor' id='motor'>
             <div>
             <div className='mside'>
             <ul>
@@ -85,7 +85,7 @@ function Motors(){
             </div>
             <div className='bottom'>
                 <div className='div'>
-                <a href='/tricycles.js'>CHECK TRICYCLES</a>
+                <a href='#tricycles.js'>CHECK TRICYCLES</a>
                 </div>
             </div>
 
