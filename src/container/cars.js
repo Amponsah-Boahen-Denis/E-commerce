@@ -39,7 +39,7 @@ function Cars() {
 <p>transport zone car</p><b>$23,540</b><img className='img' src={require('./sales/star2.png').default} alt="" />
 </div>
 <div className='sell'><i classname='num'>#6</i><img src={require('./sales/car6.png').default} alt=""  />
-<p>transport zone car</p><b>$32,982</b><img className='img' src='sales/star2.png' alt="" />
+<p>transport zone car</p><b>$32,982</b><img className='img'src={require('./sales/star1.png').default}  alt="" />
 </div>
 <div className='sell'><i classname='num'>#7</i><img src={require('./sales/car7.png').default} alt=""  />
 <p>transport zone car</p><b>$19,674</b><img className='img' src={require('./sales/star2.png').default} alt="" />
@@ -97,7 +97,7 @@ function Cars() {
            
 <div className='bottom'>
     <div className='div'>
-    <a href='#motor.js'>
+    <a href='#motors.js'>
         CHECK MOTORS
     </a>
     </div>

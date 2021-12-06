@@ -4,8 +4,8 @@ import {Link} from 'react-router-dom'
 function Home() {
     return (
         <div className='home'>
-           <h1>Buy your transportation machine from below of the image
-           links thank you.
+           <h1>Buy your transportation machine by clicking the links in the any  of the images
+           below thank you.
            </h1>
         <div className='main'>
 
